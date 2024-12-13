@@ -1,0 +1,7 @@
+{
+    "build": {
+      "command": "bun run vite build",
+      "publish": "dist"
+    }
+  }
+  
